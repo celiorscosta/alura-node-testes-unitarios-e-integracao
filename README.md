@@ -1,6 +1,6 @@
 # Node.js: testes unitários e de integração
 
-| :placard: API em NodeJS |     |
+| :placard: Testes Unitários com Jest em NodeJS |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Node.js: testes unitários e de integração**
 | :label: Tecnologias | Node, SuperTest, Jest, ESLint
